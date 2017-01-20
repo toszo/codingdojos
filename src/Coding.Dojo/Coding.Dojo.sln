@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FizzBuzzKata", "FizzBuzzKata", "{A5A73ED9-63A4-46DF-AE85-C186D126B3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Dojo.FizzBuzzKata", "Coding.Dojo.FizzBuzzKata\Coding.Dojo.FizzBuzzKata.csproj", "{008612CB-5463-402F-8136-41320FF2AD4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Dojo.FizzBuzzKata.Tests", "Coding.Dojo.FizzBuzzKata.Tests\Coding.Dojo.FizzBuzzKata.Tests.csproj", "{F2124688-563F-4CA2-8AAD-FE5C831ACA69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LangtonsAnt", "LangtonsAnt", "{CEF3E7A2-6C1E-40CA-BE1C-F33AF24D872D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Dojo.LangtonsAnt", "Coding.Dojo.LangtonsAnt\Coding.Dojo.LangtonsAnt.csproj", "{C9A2B5B3-0F49-438F-9068-5E7F360D44FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Dojo.LangtonsAnts.Tests", "Coding.Dojo.LangtonsAnts.Tests\Coding.Dojo.LangtonsAnts.Tests.csproj", "{DA3F57C5-B6D1-4430-9C7E-F4DF86AC2EFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RomanNumbers", "RomanNumbers", "{46796DD3-CB12-423F-AD34-FEB24E894FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Dojo.RomanNumbers", "Coding.Dojo.RomanNumbers\Coding.Dojo.RomanNumbers.csproj", "{0F9F2F79-C911-4D17-99F5-786628C62530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Dojo.RomanNumbers.Tests", "Coding.Dojo.RomanNumbers.Tests\Coding.Dojo.RomanNumbers.Tests.csproj", "{3D2B477D-0368-4764-AE70-07C8A476F422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008612CB-5463-402F-8136-41320FF2AD4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008612CB-5463-402F-8136-41320FF2AD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008612CB-5463-402F-8136-41320FF2AD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008612CB-5463-402F-8136-41320FF2AD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2124688-563F-4CA2-8AAD-FE5C831ACA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2124688-563F-4CA2-8AAD-FE5C831ACA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2124688-563F-4CA2-8AAD-FE5C831ACA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2124688-563F-4CA2-8AAD-FE5C831ACA69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A2B5B3-0F49-438F-9068-5E7F360D44FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A2B5B3-0F49-438F-9068-5E7F360D44FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A2B5B3-0F49-438F-9068-5E7F360D44FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A2B5B3-0F49-438F-9068-5E7F360D44FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3F57C5-B6D1-4430-9C7E-F4DF86AC2EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3F57C5-B6D1-4430-9C7E-F4DF86AC2EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3F57C5-B6D1-4430-9C7E-F4DF86AC2EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3F57C5-B6D1-4430-9C7E-F4DF86AC2EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9F2F79-C911-4D17-99F5-786628C62530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9F2F79-C911-4D17-99F5-786628C62530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9F2F79-C911-4D17-99F5-786628C62530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9F2F79-C911-4D17-99F5-786628C62530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2B477D-0368-4764-AE70-07C8A476F422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2B477D-0368-4764-AE70-07C8A476F422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2B477D-0368-4764-AE70-07C8A476F422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2B477D-0368-4764-AE70-07C8A476F422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{008612CB-5463-402F-8136-41320FF2AD4F} = {A5A73ED9-63A4-46DF-AE85-C186D126B3FF}
+		{F2124688-563F-4CA2-8AAD-FE5C831ACA69} = {A5A73ED9-63A4-46DF-AE85-C186D126B3FF}
+		{C9A2B5B3-0F49-438F-9068-5E7F360D44FE} = {CEF3E7A2-6C1E-40CA-BE1C-F33AF24D872D}
+		{DA3F57C5-B6D1-4430-9C7E-F4DF86AC2EFD} = {CEF3E7A2-6C1E-40CA-BE1C-F33AF24D872D}
+		{0F9F2F79-C911-4D17-99F5-786628C62530} = {46796DD3-CB12-423F-AD34-FEB24E894FB2}
+		{3D2B477D-0368-4764-AE70-07C8A476F422} = {46796DD3-CB12-423F-AD34-FEB24E894FB2}
+	EndGlobalSection
+EndGlobal
